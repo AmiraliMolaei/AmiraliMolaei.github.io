@@ -1,0 +1,11 @@
+.container {
+  text-align: center;
+}
+
+h1, h2, p {
+  margin: 10px 0;
+}
+
+.links a {
+  margin-right: 10px;
+}
