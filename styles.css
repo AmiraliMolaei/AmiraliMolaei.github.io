@@ -1,5 +1,6 @@
 .container {
   text-align: center;
+  position: relative; /* Added for positioning the absolute element */
 }
 
 h1, h2, p {
@@ -14,4 +15,8 @@ h1, h2, p {
   position: absolute;
   top: 30px;
   left: 30px;
+}
+
+.name {
+  margin-top: 380px; /* Adjust the margin-top value to position the name below the image */
 }
